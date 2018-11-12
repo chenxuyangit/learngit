@@ -19,7 +19,7 @@ $ git commit -m "describe"
 
 四、在GitHub上右上角找到“Create a new repo”按钮创建项目
 
-关联起来 这后面的添加的是你自己github上项目的网址
+关联起来 这后面的添加的是你自己github上项目的网址----只用第一次添加就可以了
 ```Git
 $ git remote add origin https://github.com/chenxuyangit/learngit.git
 ```
